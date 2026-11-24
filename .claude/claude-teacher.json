@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "enabled": true,
+  "learning_type": "project",
+  "topic": "ray tracing in C (Light3D)",
+  "initialized": "2026-11-23"
+}
